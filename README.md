@@ -1,6 +1,6 @@
 - 👋 Hi, We are @volative
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning terminal, server, database, git, laravel, vuejs, flutter and more.
+- 👀 We are interested in tech
+- 🌱 We are currently learning terminal, server, database, git, laravel, vuejs, flutter and more.
 
 
 <!---
